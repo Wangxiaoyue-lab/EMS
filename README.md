@@ -10,3 +10,4 @@ Code for analyze the single cell transcriptome data of endometrisois
 8. myEnS_menstrual_score_diffene.R.ipynb, is the workflow to evaluate the menstrual feature genes score and discover the overexpressed genes for the ectopic endometrial stromal cells across the menstrual cycle.
 9. NMdata_menstrual_score.R.ipynb, is the workflow to evaluate the menstrual feature gene list with the downloaded control endometrium data from healthy donors.
 10. Menstrual_gene_dotplot.ipynb, is the workflow to evalute the selected menstrual gene expression for our data and Fonseca's data.
+11. NG_OSC_reanalyze.R.ipynb, is the workflow to reanalyze the Ovarain Stromal Cells derived from the Fonseca's data, revealing the characteristics of the different subgroups of OSC.
