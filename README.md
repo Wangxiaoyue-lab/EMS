@@ -1,4 +1,4 @@
-Code for analyze the single cell transcriptome data of endometrisois
+Code for analyze the single cell transcriptome data of endometriosis
 
 1. The file alldata2024.ipynb, is the scanpy workflow used to analyze our data, and get the cell clusters and cell types.
 2. OVcancer_scanpy.ipynb, is the workflow to reanalyze the genes specifically expressed in stromal cells derived from different types of ovarain cancer.
