@@ -1,6 +1,6 @@
-Code for analyze the single cell transcriptome data of endometriosis
+Code for analyze the single cell transcriptome data of endometriosis.
 
-1. alldata2024.ipynb, is the scanpy workflow used to analyze our single cell sequencing data, and get the cell clusters and cell types.
+1.alldata2024.ipynb, is the scanpy workflow used to analyze our single cell sequencing data, and get the cell clusters and cell types.
 
 2.1 readdata_E-MTAB-10287_NG.R.ipynb, is the R workflow to load the endometrium scRNA data of E-MTAB-10287, and convert to h5ad format.
 
